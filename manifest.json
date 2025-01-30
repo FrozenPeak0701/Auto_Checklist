@@ -1,0 +1,11 @@
+{
+    "id": "auto-checklist",
+    "name": "Auto Checklist",
+    "version": "1.0.0",
+    "minAppVersion": "1.0.0",
+    "description": "Automatically updates parent checkboxes based on subtask completion.",
+    "author": "Zeyu Ma",
+    "authorUrl": "",
+    "isDesktopOnly": false
+  }
+  
